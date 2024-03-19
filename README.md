@@ -8,7 +8,7 @@ Undertale-Red için türkçe yama
 Undertale Red,Undertale alternatif evren oyunları arasında ILK çıkmış olan oyundur.
 
 
-#Hak Sahipleri
+# Hak Sahipleri
 Görseller:Nndy, Sankous
 
 Müzik:Toby Fox, Electric Mudkip,IKarus
